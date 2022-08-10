@@ -19,7 +19,8 @@ This dictionary is a revised version of the Strongs Exhaustive Concordance of th
 
 Submitters must agree that the content they are submitting is being submitted
 to the Biblical Text Institute under the rules of the 'CC0 1.0 Universal
-Public Domain Dedication'.
+Public Domain Dedication'. Submitters must warrant that they have the
+legal authority to submit under this license.
 
 # Copyright Statement
 
