@@ -15,18 +15,28 @@ This dictionary is a revised version of the Strongs Exhaustive Concordance of th
  - Gloss: English words demonstrating possible translations.
  - Strongs: One or more strongs numbers this entry maps to.
 
+# Rules of content submission
+
+Submitters must agree that the content they are submitting is being submitted
+to the Biblical Text institute under the rules of the 'CC0 1.0 Universal
+Public Domain Dedication'.
+
 # Copyright Statement
 
-This dictionary is released into the pubic domain, and is free to use without restriction for personal, academic, commercial, and non-commercial purposes. You do not need to request permission to use this dictionary, and no limitations are placed on how it may be used or distributed.
+The Biblical Text Institute distributes this dictionary under the
+'CC0 1.0 Universal Public Domain Dedication' license.
+For details see: https://creativecommons.org/publicdomain/zero/1.0/
 
-
-In order to guarantee that this dictionary remains unencumbered by copyright issues. The submitter must have the right to submit the data and transfer any/all copyright to the Biblical Text Institute. This ensures that the Biblical Text Institute has the proper permission to completely release all data into the public domain.
+The contents of this dictionary are free to use without restriction
+for personal, academic, commercial, and non-commercial purposes.
+You do not need to request permission to use this dictionary, and no
+limitations are placed on how it may be used or distributed.
 
 If you use this dictionary and would like to attribute the work, it is
 requested, but not required, that you link back to the source in order to
 allow others who use this dictionary to provide feedback and updates so
 that we can continually improve this dictionary:
 
-> Copyright ©2020–2021, Biblical Text Society. This dictionary is dedicated to
-> the public domain. Please submit errata to https://biblicaltext.com
-
+> Copyright ©2020–2022, Biblical Text Institute. This dictionary is
+> dedicated to the public domain. Please submit errata to
+> https://biblicaltext.com
