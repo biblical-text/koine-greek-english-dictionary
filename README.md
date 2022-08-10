@@ -4,6 +4,17 @@ This dictionary is a revised version of the Strongs Exhaustive Concordance of th
  - Defintions have been split or merged based upon modern lingustic understanding of Koine Greek.
  - The dictionary has been slightly expanded to include some vocabulary that appears outside of the New Testament to support other Koine Era Greek text. This includes support for Athanaze.
 
+# File format
+
+ - Word: contains either:
+    - The verb form.
+    - The noun, including genitive ending and article.
+    - The adjective, and alternate feminine and/or neuter endings
+ - Alternate spellings: A comma separated list of alternate spellings. For example: Ἰερουσαλήμ, Ἱεροσόλυμα
+ - Transliteration into English.
+ - Gloss: English words demonstrating possible translations.
+ - Strongs: One or more strongs numbers this entry maps to.
+
 # Copyright Statement
 
 This dictionary is released into the pubic domain, and is free to use without restriction for personal, academic, commercial, and non-commercial purposes. You do not need to request permission to use this dictionary, and no limitations are placed on how it may be used or distributed.
