@@ -6,7 +6,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ἅβελ, ὁ",Ἄβελ,Abel,Abel,6
 "Ἀβιά, ὁ",,Abia,Abijah,7
 "Ἀβιαθάρ, ὁ",Ἀβιάθαρ,Abiathar,Abiathar,8
-"Ἀβιληνή, ἡ",,Abilēnē,Abilene,9
+"Ἀβιληνή, -ῆς, ἡ",,Abilēnē,Abilene,9
 "Ἀβιούδ, ὁ",,Abioud,Abiud,10
 "Ἀβραάμ, ὁ",,Abraam,Abraham,11
 "ἄβυσσος, -ου, ἡ",,abussos,"bottomless, incomprehensible depth",12
@@ -124,6 +124,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἀθυμέω,,athumeō,"be discouraged, disheartened, lose heart",120
 "ἀθῷος, -ον",,athōos,"innocent, guiltless",121
 "αἴγειος, -α, -ον",,aigeios,of a goat,122
+"Αἰγεύς, -ος, ὁ",,Aigeus,Aegeus,
 "αἰγιαλός, -οῦ, ὁ",,aigialos,"seashore, beach, sea-coast",123
 "Αἰγύπτιος, -α, -ον",,Aiguptios,Egyptian,124
 "Αἴγυπτος, -ου, ἡ",Ἔγυπτος,Aiguptos,Egypt,125
@@ -735,6 +736,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ἀρέτας, -α, ὁ",,Aretas,Aretas,702
 "ἀρετή, -ῆς, ἡ",,aretē,"virtue, moral excellence, perfection",703
 "ἀρήν, -ἀρνός, ὁ",,arēn,lamb,704
+"Ἀριάδνη, -ης, ἡ",,Ariadnē,Ariadne,
 ἀριθμέω,,arithmeō,"number, count",705
 "ἀριθμός, -οῦ, ὁ",,arithmos,"number, total",706
 "Ἁριμαθαία, -ας, ἡ",,Arimathaia,Arimathea,707
@@ -860,9 +862,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ἀττάλεια, -ας, ἡ",,Attaleia,Attalia,825
 αὐγάζω,,augazō,"see, shine forth",826
 "αὐγή, -ῆς, ἡ",,augē,"dawn, light of day",827
-"Αὐγούστος, -ου, ὁ",,Augoustos,Augustus,828
-"Αὐγοῦστος, -ου, ὁ",,Augoustos,Augustus,828
-"Αὔγουστος, -ου, ὁ",,Augoustos,Augustus,828
+"Αὐγοῦστος, -ου, ὁ","Αὐγούστος, Αὔγουστος",Augoustos,Augustus,828
 αὐθάδης,,authadēs,"self-willed, stubborn, arrogant, self-satisfied",829
 "αὐθαίρετος, -ον",,authairetos,of one's own accord,830
 αὐθεντέω,,authenteō,"govern, exercise authority, domineer over",831
@@ -1601,6 +1601,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "εἷς, μία, ἕν",,eis,"one, 1",1520
 εἰσάγω,,eisagō,"lead in, bring in",1521
 εἰσακούω,,eisakouō,"listen, hear, listen to",1522
+εἰσβαίνω,,eisbainō,"embark, board ship",
 εἰσδέχομαι,,eisdechomai,"receive, welcome, welcome in",1523
 εἴσειμι,,eiseimi,"enter, go in",1524
 εἰσέρχομαι,,eiserchomai,"go into, come in, enter, go in",1525
@@ -1723,7 +1724,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐκχωρέω,,ekchōreō,"go out, leave, depart, depart from",1633
 ἐκψύχω,,ekpsuchō,"expire, breathe one's last, breathe my last, die",1634
 "ἑκών, -οῦσα, -ον",,ekōn,"of one's own free will, voluntarily, willing, willingly",1635
-"ἐλαία, -ας, ἡ",,elaia,olive tree,1636
+"ἐλαία, -ας, ἡ",,elaia,"olive tree, olive",1636
 "ἔλαιον, -ου, τό",,elaion,olive oil,1637
 "ἐλαιών, -ῶνος, ὁ",,elaiōn,"olive grove, olive orchard, mount Olivet",1638
 "Ἐλαμίτης, -ου, ὁ",,Elamitēs,"Elamites, Elamite",1639
@@ -2364,6 +2365,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ζῳοποιέω,,zōopoieō,"make alive, make to live",2227
 ἤ,,ē,"or, than",2228
 ἦ,,ē,"truly, surely",2229
+ἡβῶ,,ēbō,"youth, adolescent, pubescent, energy of youth",
 ἡγεμονεύω,,ēgemoneuō,"be governor, rule, govern",2230
 "ἡγεμονία, -ας, ἡ",,ēgemonia,"rule, management, authority",2231
 "ἡγεμών, -όνος, ὁ",,ēgemōn,"governor, leader, head provincial administrator",2232
@@ -2477,6 +2479,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "θηρίον, -ου, τό",,thērion,"wild beast, animal",2342
 θησαυρίζω,,thēsaurizō,"lay up, store up, treasure, treasure up, save",2343
 "θησαυρός, -οῦ, ὁ",,thēsauros,"storehouse, treasure, store",2344
+"Θησεύς, -ος, ὁ",,Thēseus,Theseus,
 θιγγάνω,,thigganō,"touch, handle",2345
 θλίβω,,thlibō,"press, oppress, make narrow, persecute, press hard",2346
 "θλῖψις, -εως, ἡ",,thlipsis,"tribulation, persecution, affliction, distress",2347
@@ -3006,6 +3009,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 κνήθομαι,,knēthomai,"itch, scratch",
 κνήθω,,knēthō,"rub, tickle",2833
 "Κνίδος, -ου, ἡ",,Knidos,Cnidus,2834
+"Κνωσσός, -ης, ἡ",,Knōssos,Knossos,
 "κοδράντης, -ου, ὁ",,kodrantēs,"quadrans (penny), smallest Roman copper coin",2835
 "κοιλία, -ας, ἡ",,koilia,"belly, womb, stomach, inner man",2836
 κοιμάομαι,,koimaomai,"sleep, fall asleep, am asleep",2837
@@ -3158,6 +3162,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Κῶς, ἡ",,Kōs,Cos,2972
 "Κωσάμ, ὁ",,Kōsam,Cosam,2973
 "κωφός, -ή, -όν",,kōphos,"deaf, dumb",2974
+"λαβύρινθος, -ος, ὁ",,laburinthos,"labyrinth, maze",
 "λαγιδεύς, -έως, ὁ",,lagideus,rabbit,
 λαγχάνω,,lagchanō,"chose by lot, receive, obtain by lot, cast lots",2975
 "λαγώς, -ώ, ὁ",,lagōs,hare,2830
@@ -3299,6 +3304,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "μάγος, -ου, ὁ",,magos,"magician, sorcerer, wizard",3097
 "Μαγώγ, ὁ",,Magōg,Magog,3098
 "Μαδιάμ, ὁ",,Madiam,Midian,3099
+"μάθημα, -τος, τό",,mathēma,lesson,
 μαθητεύω,,mathēteuō,"be a disciple, make a disciple",3100
 "μαθητής, -οῦ, ὁ",,mathētēs,"disciple, student, learner",3101
 "μαθήτρια, -ας, ἡ",,mathētria,"female disciple, female student",3102
@@ -3519,6 +3525,8 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 μιμέομαι,,mimeomai,"imitate, emulate",3401
 "μιμητής, -οῦ, ὁ",,mimētēs,imitator,3402
 μιμνήσκομαι,μιμνῄσκομαι,mimnēskomai,"remember, recall",3403
+"Μίνως, -ος, ὁ",,Minōs,Minos,
+"Μινώταυρος, -ος, ὁ",,Minōtauros,Minos,
 μισέω,,miseō,"hate, detest",3404
 "μισθαποδοσία, -ας, ἡ",,misthapodosia,"recompense, reward, due punishment",3405
 "μισθαποδότης, -ου, ὁ",,misthapodotēs,rewarder,3406
@@ -3889,6 +3897,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ὀσμή, -ῆς, ἡ",,osmē,"smell, aroma, fragrance, odor",3744
 "ὅσος, -η, -ον",,osos,"how many, as many as, how great, as great as",3745
 ὅσπερ,,osper,very one who,3746
+"ὄσπριον, -ον, τό",,osprion,"legume, bean, pea, beans",
 "ὀστέον, τό",,osteon,bone,3747
 ὅστις,,ostis,"who, whoever, what, whatever",3748
 "ὀστράκινος, -η, -ον",,ostrakinos,"made of earth or clay, made of earth",3749
@@ -5290,7 +5299,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "τεκνίον, -ου, τό",,teknion,little child,5040
 τεκνογονέω,,teknogoneō,"bear or beget children, bear children",5041
 "τεκνογονία, -ας, ἡ",,teknogonia,"bearing of children, child bearing",5042
-"τέκνον, -ου, τό",,teknon,"child, descendet",5043
+"τέκνον, -ου, τό",,teknon,"child, descendant",5043
 τεκνοτροφέω,,teknotropheō,bring up children,5044
 "τέκτων, -ονος, ὁ",,tektōn,"builder, carpenter",5045
 "τέλειος, -α, -ον",,teleios,"complete, perfect, mature, full grown",5046
