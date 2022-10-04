@@ -468,7 +468,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἀνίημι,,aniēmi,"give up, loosen, unfasten, let go, release, neglect",447
 "ἄνιπτος, -ον",,aniptos,unwashed,449
 ἀνίστημι,,anistēmi,"raise, arise, cause to arise, raise up, set up",450
-"Ἅννα, -ας, ἡ",,Anna,Anna,451
+"Ἅννα, -ας, ἡ",,Anna,"Anna, Hannah",451
 "Ἅννας, -α, ὁ",,Annas,Annas,452
 "ἀνόητος, -ον",,anoētos,"foolish, thoughtless",453
 "ἄνοια, -ας, ἡ",,anoia,"folly, foolishness, madness",454
@@ -1221,11 +1221,12 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "δανειστής, ὁ",,daneistēs,"lender, creditor",1157
 δανίζω,,danizō,"lend money, borrow money",
 "Δανιήλ, ὁ",,Daniēl,Daniel,1158
-δανιστής,,danistēs,creditor,
+"δανιστής, ",,danistēs,creditor,
 δαπανάω,,dapanaō,"spend, spend freely, bear expense, waste",1159
 "δαπάνη, -ης, ἡ",,dapanē,"cost, expense",1160
 "Δαυίδ, ὁ","Δαυείδ, Δαβίδ",Dauid,David,1138
 δέ,,de,"but, and, now",1161
+"Δεββώρα, -ας, ἡ",,Debbōra,Deborah,
 "δέησις, -εως, ἡ",,deēsis,"entreaty, prayer, supplication",1162
 δεῖ,,dei,"it is necessary, inevitable",1163
 "δεῖγμα, -τος, τό",,deigma,"proof, example, type",1164
@@ -2197,6 +2198,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἔρχομαι,,erchomai,"come, go",2064
 ἐρωτάω,,erōtaō,"ask, request, entreat, question",2065
 "ἐρώτημα, -τος, τό",,erōtēma,question,
+"Ἐσθήρ, ἡ",,Esthēr,Esther,
 "ἐσθής, -ῆτος, ἡ",,esthēs,clothing,2066
 "ἔσθησις, -εως, ἡ",,esthēsis,"clothing, garment",2067
 ἐσθίω,,esthiō,eat,2068
@@ -2586,7 +2588,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἱλάσκομαι,,ilaskomai,"propitiate, expiate, have mercy on, forgive",2433
 "ἱλασμός, -οῦ, ὁ",,ilasmos,"atoning sacrifice, means of forgiveness, expiation, propitiation, sin-offering",2434
 "ἱλαστήριον, -ου, τό",,ilastērion,"sin offering, covering",2435
-ἱλαστήριος,,ilastērios,"means of expiation, place of propitiation",
+"ἱλαστήριος, ",,ilastērios,"means of expiation, place of propitiation",
 ἵλεως,,ileōs,"gracious, merciful, propitious, forgiving",2436
 "Ἰλλυρικόν, -οῦ, τό",,Illurikon,Illyricum,2437
 "ἱμάς, -άντος, ὁ",,imas,"strap, thong",2438
@@ -2594,7 +2596,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἱμάτιον, -ου, τό",,imation,"garment, cloak, outer garment",2440
 "ἱματισμός, -οῦ, ὁ",,imatismos,clothing,2441
 ἵνα,,ina,"in order that, that, so that",2443
-ἱνατί,,inati,for what purpose? why?,
+"ἱνατί, ",,inati,for what purpose? why?,
 "Ἰόππη, -ης, ἡ",,Ioppē,Joppa,2445
 "Ἰορδάνης, -ου, ὁ",,Iordanēs,Jordan,2446
 "ἰός, -οῦ, ὁ",,ios,"rust, poison",2447
@@ -2617,8 +2619,9 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ἰσαάκ, ὁ",,Isaak,Isaac,2464
 "ἰσάγγελος, -ον",,isaggelos,"like an angel, like the angels",2465
 "Ἰσαχάρ, ὁ",,Isachar,Issachar,2466
-Ἰσκαριώθ,,Iskariōth,Iscariot,
+"Ἰσκαριώθ, ",,Iskariōth,Iscariot,
 "Ἰσκαριώτης, -ου, ὁ",,Iskariōtēs,"Iscariot, man of Kerioth",2469
+"Ἰσμαήλ, ὁ",,Ismaēl,Ishmael,
 "ἴσος, -η, -ον",,isos,"equal, identical",2470
 "ἰσότης, -ητος, ἡ",,isotēs,"equality, fairness",2471
 "ἰσότιμος, -ον",,isotimos,"equal, like, of the same kind, equally privileged",2472
@@ -2655,7 +2658,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ἰωρείμ, ὁ",Ἰωρίμ,Iōreim,Jorim,2497
 "Ἰωρίμ, ὁ",,Iōrim,Jorim,
 "Ἰωσαφάτ, ὁ",,Iōsaphat,"Josaphat, Jehoshaphat",2498
-Ἰωσῆ,,Iōsē,gen. of Joses,2499
+"Ἰωσῆ, ",,Iōsē,gen. of Joses,2499
 "Ἰωσῆς, -ῆτος, ὁ",,Iōsēs,Joses,2500
 "Ἰωσήφ, ὁ",,Iōsēph,Joseph,2501
 "Ἰωσήχ, ὁ",,Iōsēch,Josech,
@@ -2910,7 +2913,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 κάτω,,katō,"down, below, lower, under, less",2736
 "κατώτερος, -α, -ον",,katōteros,lower,2737
 κατωτέρω,,katōterō,"lower, below",
-Καῦδα,,Kauda,Clauda,
+"Καῦδα, ","Κλαῦδα , Κλαῦδη",Kauda,"Clauda, Klauda Island",
 "καῦμα, -τος, τό",,kauma,"burning, heat, burning heat",2738
 καυματίζω,,kaumatizō,"burn up, scorch, burn",2739
 "καῦσις, -εως, ἡ",,kausis,"burning, burning up",2740
@@ -3137,7 +3140,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 κυκλόθεν,,kuklothen,"around, in a circle round",2943
 "κύκλος, -ου, ὁ",,kuklos,circle,2945
 κυκλόω,,kukloō,"encircle, surround, besiege",2944
-κύκλῳ,,kuklō,"in a circle, round about",
+"κύκλῳ, ",,kuklō,"in a circle, round about",
 κυλίομαι,,kuliomai,"roll, roll about",
 "κύλισμα, -τος, τό",,kulisma,"rolling, wallowing",2946
 "κυλισμός, -οῦ, ὁ",,kulismos,"rolling, wallowing",
@@ -3204,6 +3207,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Λεββαῖος, -ου, ὁ",,Lebbaios,Lebbaeus,3002
 "λεγεών, -ῶνος, ἡ",λεγιών,legeōn,"legion, very large number",3003
 λέγω,,legō,"say, speak, said",3004
+"Λεία, -ας, ἡ",,Leia,Leah,
 "λεῖμμα, -τος, τό",,leimma,"remnant, remainder",3005
 "λεῖος, -α, -ον",,leios,"smooth, level",3006
 λείπω,,leipō,"leave, leave behind, lack, am wanting, am left behind",3007
@@ -3211,14 +3215,13 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "λειτουργία, -ας, ἡ",,leitourgia,"service, ministry, charitable gift, public service",3009
 "λειτουργικός, -ή, -όν",,leitourgikos,"engaged in special service, ministering",3010
 "λειτουργός, -οῦ, ὁ",,leitourgos,"minister, servant",3011
-λεμα,,lema,why?,
+"λεμα, ",,lema,why?,
 "λέντιον, -ου, τό",,lention,"linen cloth, towel, apron",3012
 "λέξις, -εως, ἡ",,lexis,"word, phrase, saying, word (grammar)",
 "λεπίς, -ίδος, ἡ",,lepis,"scale (of a fish), scale, scaly substance",3013
 "λέπρα, -ας, ἡ",,lepra,leprosy,3014
 "λεπρός, -ά, -όν",,lepros,"scaly, leprous, leper",3015
-"λεπτόν, τό",,lepton,"small coin, small piece of money",3016
-λεπτός,,leptos,"thin, small, small coin",
+"λεπτός, -ή, -όν",,leptos,"small coin, small piece of money",3016
 "Λέσβος, -ής, ἡ",,Lesbos,Lesbos (island),
 "Λευΐ, ὁ","Λευί, Λευεί",Leui,Levi,3017
 "Λευΐς, ὁ",,Leuis,Levi,3018
@@ -3355,7 +3358,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 μαραίνομαι,,marainomai,"die out, fade away",
 μαραίνω,,marainō,"die, wither",3133
 μαράν,,maran,Our Lord,
-μαράνα,,marana,"Maranatha, Lord, come!",
+"μαράνα, ",,marana,"Maranatha, Lord, come!",
 "μαργαρίτης, -ου, ὁ",,margaritēs,pearl,3135
 "Μάρθα, -ας, ἡ",,Martha,Martha,3136
 "Μαρία, -ας, ἡ",,Maria,"Mary, Miriam, Maria",3137
@@ -3718,6 +3721,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 νυστάζω,,nustazō,"become drowsy, doze, nod in sleep, am drowsy, slumber",3573
 "νυχθήμερον, -ου, τό",,nuchthēmeron,"day and a night, twenty-four hours",3574
 "Νῶε, ὁ",,Nōe,Noah,3575
+"Νωεμείν, ἡ",,Nōemein,Naomi,
 "νωθρός, -ά, -όν",,nōthros,"lazy, sluggish, dull",3576
 "νῶτος, -ου, ὁ",,nōtos,"back, back of men or animals",3577
 "Ξανθίας, ὁ",,Xanthias,Xanthias,
@@ -4652,8 +4656,8 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "πτῶμα, -τος, τό",,ptōma,"dead body, corpse, carcass",4430
 "πτῶσις, -εως, ἡ",,ptōsis,"fall, falling",4431
 "πτωχεία, -ας, ἡ",,ptōcheia,"poverty, beggary",4432
-πτωχεύω,,ptōcheuō,"be (extremely) poor, destitute, am in poverty",4433
-"πτωχός, -ή, -όν",,ptōchos,"poor, poor man (as a noun), destitute",4434
+πτωχεύω,,ptōcheuō,"poor, destitute, in poverty",4433
+"πτωχός, -ή, -όν",,ptōchos,"poor, poor person, destitute",4434
 "πυγμή, -ῆς, ἡ",,pugmē,"hand and wrist, fist, boxing",4435
 "πύθων, -ωνος, ὁ",,puthōn,"spirit of divination, divining spirit",4436
 "πυκνός, -ή, -όν",,puknos,"frequent, numerous, often",4437
@@ -4796,6 +4800,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Σάρεπτα, -ων, τό",,Sarepta,Zarephath,4558
 "σαρκικός, -ή, -όν",,sarkikos,"fleshly, carnal",4559
 "σάρκινος, -η, -ον",,sarkinos,"of the flesh, fleshly, consisting of flesh",4560
+σαρκόω,,sarkoō,"I make flesh, I produce flesh",
 "σάρξ, -ος, ἡ",,sarx,"flesh, body",4561
 σαρόω,,saroō,"sweep, sweep using a broom",4563
 "Σάρρα, -ας, ἡ",,Sarra,Sarah,4564
