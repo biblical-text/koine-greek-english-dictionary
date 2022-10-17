@@ -814,6 +814,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἀσιτία, -ας, ἡ",,asitia,"lack of appetite, abstinence, fast",776
 "ἄσιτος, -ον",,asitos,"without eating, fasting",777
 ἀσκέω,,askeō,"practice, engage in, train, exercise",778
+"ἄσκησις, -εως, ἡ",,askēsis,"exercise, practice, training",
 "ἀσκός, -οῦ, ὁ",,askos,"leather bottle, wineskin, leather bag",779
 ἀσμένως,,asmenōs,"gladly, joyfully, with delight",780
 "ἄσοφος, -ον",,asophos,"unwise, foolish, unskilled",781
@@ -870,7 +871,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 αὐθεντέω,,authenteō,"govern, exercise authority, domineer over",831
 αὖθις,,authis,"again, afresh, moreover",
 αὐλέω,,auleō,"play a flute, play the flute, pipe",832
-"αὐλή, -ῆς, ἡ",,aulē,"courtyard, enclosed open space, palace, house",833
+"αὐλή, -ῆς, ἡ",,aulē,"enclosed open space, courtyard, enclosed dwelling complex, palace",833
 "αὐλητής, -οῦ, ὁ",,aulētēs,"flute player, pipe player",834
 αὐλίζομαι,,aulizomai,"spend the night, lodge, pass the night",835
 "αὔλιον, -ον, τό",,aulion,"animal pen, sheep pen",
@@ -1183,6 +1184,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 γονυπετέω,,gonupeteō,"fall on the knees, kneel down, fall on my knees before, supplicate, entreat",1120
 "γράμμα, -τος, τό",,gramma,"letter, writings, learning",1121
 "γραμματεύς, -έως, ὁ",,grammateus,"scribe, town clerk, man of learning",1122
+"γραμματική, -ας, ἡ",,grammatikē,grammar,
 "γραπτός, -ή, -όν",,graptos,written,1123
 "γραφή, -ῆς, ἡ",,graphē,"writing, scripture",1124
 γράφω,,graphō,write,1125
@@ -1803,6 +1805,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἐμπαιγμός, -οῦ, ὁ",,empaigmos,"scorn, mocking, mockery",1701
 ἐμπαίζω,,empaizō,mock,1702
 "ἐμπαίκτης, -ου, ὁ",,empaiktēs,mocker,1703
+"ἐμπειρία, -ας, ἡ",,empeiria,experience,
 ἐμπεριπατέω,,emperipateō,"walk about, walk among, walk about in a place",1704
 ἐμπίπλημι,,empiplēmi,"fill up, satisfy",1705
 ἐμπίπρημι,,empiprēmi,set on fire,
@@ -2546,7 +2549,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἴασις, -εως, ἡ",,iasis,"healing, cure",2392
 "ἴασπις, -ιδος, ἡ",,iaspis,"jasper (a translucent stone), jasper",2393
 "Ἰάσων, -ονος, ὁ",,Iasōn,Jason,2394
-"ἰατρός, -οῦ, ὁ",,iatros,physician,2395
+"ἰατρός, -οῦ, ὁ",,iatros,"physician, doctor",2395
 ἴδε,,ide,"See!, Behold!, Look!",2396
 "ἰδέα, -ας, ἡ",,idea,"form, outward appearance",2397
 "ἴδιος, -α, -ον",,idios,"his, one’s own, one's own, private, personal",2398
@@ -3046,12 +3049,13 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 κολοβόω,,koloboō,"curtail, shorten, cut short",2856
 "Κολοσσαί, -ῶν, ἡ",Κολασσαί,Kolossai,Colossae,2857
 "κόλπος, -ου, ὁ",,kolpos,"bosom, breast, bosom of a garment, bay, gulf",2859
-κολυμβάω,,kolumbaō,"swim up and down, swim",2860
+κολυμβάω,,kolumbaō,swim,2860
 "κολυμβήθρα, -ας, ἡ",,kolumbēthra,"pool, swimming-place",2861
 "κολωνία, -ας, ἡ",,kolōnia,"colony, garrison city",2862
 κομάω,,komaō,"have long hair, wear the hair long",2863
 "κόμη, -ης, ἡ",,komē,"(long) hair, hair, long hair",2864
 κομίζω,,komizō,"receive, bring, recover",2865
+"κόμμα, -τος, τὸ",,komma,"short clause (grammar), phrase (grammar), something cut off",
 κομψότερον,,kompsoteron,"better, in better health",2866
 κονιάω,,koniaō,whitewash,2867
 "κονιορτός, -οῦ, ὁ",,koniortos,dust,2868
@@ -3112,7 +3116,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "κρίμα, -ος, τό",,krima,"judgment, verdict, lawsuit",2917
 "κρίνον, -ου, τό",,krinon,lily,2918
 κρίνω,,krinō,"judge, decide, think good",2919
-"κρίσις, -εως, ἡ",,krisis,"judgment, judging, divine judgment",2920
+"κρίσις, -εως, ἡ",,krisis,"judgment, legal decision",2920
 "Κρίσπος, -ου, ὁ",,Krispos,Crispus,2921
 "κριτήριον, -ου, τό",,kritērion,"law court, tribunal, criterion",2922
 "κριτής, -ου, ὁ",,kritēs,judge,2923
@@ -3774,7 +3778,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "οἰκοδεσπότης, -ου, ὁ",,oikodespotēs,"householder, head of a household",3617
 οἰκοδομέω,,oikodomeō,"build up, construct, strengthen",3618
 "οἰκοδομή, -ῆς, ἡ",,oikodomē,"building, edification, act of building",3619
-"οἰκοδόμος, -ου, ὁ",,oikodomos,builder,
+"οἰκοδόμος, -ου, ὁ",,oikodomos,"builder, architect",
 οἰκονομέω,,oikonomeō,"manage, administer, be a steward, am a steward",3621
 "οἰκονομία, -ας, ἡ",,oikonomia,"stewardship, administration",3622
 "οἰκονόμος, -ου, ὁ",,oikonomos,"manager, steward",3623
@@ -4356,7 +4360,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ποιέω,,poieō,"do, make",4160
 "ποίημα, -τος, τό",,poiēma,"work, creation, thing made",4161
 "ποίησις, -εως, ἡ",,poiēsis,"making, doing",4162
-"ποιητής, -οῦ, ὁ",,poiētēs,"maker, doer, performer, poet",4163
+"ποιητής, -οῦ, ὁ",,poiētēs,"maker, performer, poet",4163
 "ποικίλος, -η, -ον",,poikilos,"varied, manifold, various, of different colors",4164
 ποιμαίνω,,poimainō,"shepherd, rule, tend",4165
 "ποιμήν, -ένος, ὁ",,poimēn,shepherd,4166
@@ -4727,6 +4731,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ῥιπίζω,,ripizō,toss to and fro,4494
 ῥιπτέω,,ripteō,throw away,4495
 ῥίπτω,,riptō,"throw, cast, throw off, toss",4496
+"ῥίς, -ος, ἡ",,ris,nose,
 "Ῥοβοάμ, ὁ",,Roboam,Rehoboam,4497
 "Ῥόδη, -ης, ἡ",,Rodē,Rhoda,4498
 "Ῥόδος, -ου, ἡ",,Rodos,Rhodes,4499
@@ -5027,6 +5032,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 συγγενής,,suggenēs,"relative, kin, related",4773
 "συγγενίς, -ίδος, ἡ",,suggenis,"kinswoman, relative",
 "συγγνώμη, -ης, ἡ",,suggnōmē,"concession, indulgence, pardon, permission",4774
+"συγγραφεύς, -εως, ὁ",,suggrapheus,"author, historian, writer",
 συγκάθημαι,,sugkathēmai,sit with,4775
 συγκαθίζω,,sugkathizō,"cause to sit down together, sit down together, cause to sit down with",4776
 συγκακοπαθέω,,sugkakopatheō,"suffer together with someone, suffer hardships together with",4777
@@ -5330,7 +5336,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "τελευτή, -ῆς, ἡ",,teleutē,"end, death, end of life",5054
 τελέω,,teleō,"finish, fulfill, end, accomplish, pay",5055
 "τέλος, -ους, τό",,telos,"end, purpose, tax",5056
-"τελώνης, -ου, ὁ",,telōnēs,"tax collector, collector of taxes",5057
+"τελώνης, -ου, ὁ",,telōnēs,tax collector,5057
 "τελώνιον, -ου, τό",,telōnion,"tax office, tax collector's office",5058
 "τέρας, -ατος, τό",,teras,"wonder, portent",5059
 "Τέρτιος, -ου, ὁ",,Tertios,Tertius,5060
@@ -5413,6 +5419,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Τραχωνῖτις, -ιδος, ἡ",,Trachōnitis,Trachonitis,5139
 τρεῖς,,treis,"three, 3",5140
 τρέμω,,tremō,"tremble, am afraid",5141
+τρέπω,,trepō,"turn, rotate, change",
 τρέφω,,trephō,"make to grow, nourish, feed, rear",5142
 τρέχω,,trechō,"run, exercise myself",5143
 "τρῆμα, -τος, τό",,trēma,"opening, hole",
